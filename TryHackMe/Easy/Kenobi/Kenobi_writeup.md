@@ -7,8 +7,8 @@ Walkthrough on exploiting a Linux machine. Enumerate Samba for shares, manipulat
 
 ## Task 1 Deploy the vulnerable machine
 
-#### Question1:
+### Question 1:
 
 Scan the machine with nmap, how many ports are open?
 
-A simple nmap -sV -sC <ip> gives the answer: ###### 7
+A simple nmap -sV -sC <ip> gives the answer: #### 7
