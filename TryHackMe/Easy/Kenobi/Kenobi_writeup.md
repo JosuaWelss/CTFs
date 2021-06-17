@@ -7,11 +7,11 @@ Walkthrough on exploiting a Linux machine. Enumerate Samba for shares, manipulat
 
 ## Task 1 Deploy the vulnerable machine
 
-##### Question 1: Scan the machine with nmap, how many ports are open?
+#### Question 1: Scan the machine with nmap, how many ports are open?
 
 A simple scan like 'nmap -sV -sC 10.10.165.110' gives the answer: **7**
 
 ## Task 2 Enumerating Samba for shares
 
-##### Question 1: Using the nmap command above, how many shares have been found?
+#### Question 1: Using the nmap command above, how many shares have been found?
 
