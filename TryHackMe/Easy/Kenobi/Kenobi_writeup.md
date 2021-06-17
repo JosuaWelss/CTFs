@@ -30,7 +30,18 @@ Nmap scripting-engine does the job:
 #### Question 3: What port is FTP running on?
 
  1) **21** (standard port for FTP)
+
+#### Question 4: What mount can we see?
+
+ 1) nmap -p 111 --script=nfs-ls,nfs-statfs,nfs-showmount 10.10.165.110
+ 2) **/var**
+
+## Task 3 Gain initial access with ProFtpd
  
- 
+##### Question 1: What is the version?
+
+ 1) **1.3.5** (as seen in the nmap output from the beginning)
+
+#### Question 2: How many exploits are there for the ProFTPd running?
 
 
