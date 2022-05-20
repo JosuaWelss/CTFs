@@ -1,6 +1,6 @@
 # Part2
 
-[Part2]([https://tryhackme.com/room/linuxfundamentalspart1](https://tryhackme.com/room/linuxfundamentalspart2)) 
+[Part2]([https://tryhackme.com/room/linuxfundamentalspart2]
 
 Changing up the structure to find out what looks good to me. 
 From now on I will only answer "real questions" e.g. not something like 'what command is used to list the content of a directory'.
