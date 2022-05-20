@@ -54,7 +54,7 @@ Embark on the journey of learning the fundamentals of Linux. Learn to run some o
   
 #### Question 2: And I still haven't found what I'm looking for!
 
-  1) No Question.
+  1) No question.
   
 ## Task 7: An Introduction to Shell Operators
 
@@ -64,15 +64,28 @@ Embark on the journey of learning the fundamentals of Linux. Learn to run some o
   
 #### Question 2: If I wanted to replace the contents of a file named "passwords" with the word "password123", what would my command be?
 
+  1) echo password123 > passwords
+
+#### Question 3: If I wanted to replace the contents of a file named "passwords" with the word "password123", what would my command be?
+
   1) echo tryhackme >> passwords
 
-#### Question 3: Now use the deployed Linux machine to put these into practice
+#### Question 4: Now use the deployed Linux machine to put these into practice
 
-  1) no Question
+  1) no question.
 
+## Conclusions & Summaries
 
+#### Question 1: I'll have a play around!
 
+  1) No question.
 
+## Task 9: Linux Fundamentals Part 2
 
+#### Question 1: Terminate the machine deployed in this room from task 3. 
 
+  1) No question.
 
+#### Question 2: Join Linux Fundamentals Part 2! 
+
+  1) No question.
