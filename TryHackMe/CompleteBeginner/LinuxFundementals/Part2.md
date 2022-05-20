@@ -1,4 +1,4 @@
-# Part1
+# Part2
 
 [Part2]([https://tryhackme.com/room/linuxfundamentalspart1](https://tryhackme.com/room/linuxfundamentalspart2)) 
 
