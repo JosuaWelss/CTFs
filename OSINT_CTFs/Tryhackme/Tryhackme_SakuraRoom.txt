@@ -1,0 +1,45 @@
+Solution Task 1: Let's Go!
+
+Solution Task 2: SakuraSnowAngelAiko
+
+After analysing the binary and looking through the source code of the svg I found the name of the attacker
+as part of the filename path (inkscape:export-filename="/home/SakuraSnowAngelAiko/Desktop/pwnedletter.png")
+
+Solution Task 3: SakuraSnowAngel83@protonmail.com, Aiko Abe
+
+First solution: A simple cyberchef from base64 operation ont he pgp key found in the github of the attacker (https://github.com/sakurasnowangelaiko/PGP/blob/main/publickey)
+Second solution: I had to look this one up, apparently the hacker had a linkedinaccount on jp.linkedin,
+this one is not findable anymore, even typing in the exact link to the acount did not work - but the real name is Aiko Abe. Reverse image search also did not work. I noticed after this that she mentions the name AikoAbe in her twitter.
+
+Solutions Task 4: Ethereum, 0xa102397dbeeBeFD8cD2F73A89122fCdB53abB6ef, Ethermine, Tether
+
+First solution: First I thought the attacker uses litecoin or bitcoin because of the cpu miner he forked.
+I then noticed there are more repositories not immediatly shown, one is named ETH and has a mining script.
+This script is fake and instead just has a link to an ethwallet in it.
+Second solution: Looking through the commits of said file there is the old adress just sitting there. 
+Had to figure out what part of the line "counts" as the adress but that was just trial and error.
+Third solution: Simply putting the adress in google brings up ethermine which shows the exact transaction
+and where the corresponding party was indeed Ethermine.
+Fourth solution: Just 4 days before the before mentioned transaction the attacker transfered something worth 0 ETH.
+The currency used was Tether: USDT Stablecoin
+
+Solutions Task 5: @SakuraLoverAiko, http://deepv2w7p33xa4pwxzwi2ps4j62gfxpyp44ezjbmpttxz3owlsp4ljid.onion,
+84:af:ec:34:fc:f8
+
+First solution: already found that one early in our investigation.
+Second solution: I looked at the instagram posts cause there where screenshots regarding wifi.
+The instagram posts said "Not too concerned about someone else finding them on the Dark Web.
+Anyone who wants them will have to do a real DEEP search to find where I PASTEd them."
+So I thought I just got to look at pastebin and find some old hidden page - that was wrong. It was about the dark/deep web site 
+deeppaste, which is not available anymore apparently. So I just used the hint. This had a screenshot with the url in it.
+Third solution: We have to look for the attackers BSSID (basic service set identifier). A service set means all devices in a wifi net.
+The identifier of this set is usually either the mac adress of the access point or a random number.
+Searching for the wifiname on wiggle.net returns the correct BSSID.
+
+Solutions Task 6: DCA, HND, Lake Inawashiro, Hirosaki
+
+First solution: on the sakura bloom picture you can see the Washington Monument, so the solution should be the closest airport.
+Second solution: I looked up sakura lounges there are not a lot. After a bit of reverse image search I found a blog that had a really similar picture taken at 
+Handeda Airport so I looked up the Airport code for this one which is the solution.
+Third solution: By now it is clear it is in japan, google maps made finding this one pretty easy.
+Fourth solution: Looking back at the wifi information we have it has to be Hirosaki.

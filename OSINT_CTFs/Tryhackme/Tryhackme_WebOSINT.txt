@@ -1,0 +1,47 @@
+
+Solutions Task 2: Namecheap INC, 9854014545, ns1.brainydns.com, Redacted for Privacy, Iceland
+
+First solution: Use: https://www.namecheap.com/domains/whois/result?domain=RepublicOfKoffee.com.
+The name of the company where the domain is registered is found under the name "registrar"
+Second solution: look for registrar phone
+Third solution: searching for "server" on the website brings up the solution.
+Fourth solution: again a simple search for "registrant"
+Fifth solution: country code IS stands for iceland
+
+Solutions Task 3: Steve, Gwangju, South Korea, Jeungsimsa Temple
+
+First solution: archive.org has really old snapshots, the first already bringing success, simply opening one post of the website reveals the authos
+Second solution: first post has the hashtahs for the city and country in it
+Third solution: another blockpost mentions a nationalpark (Mudeungsan-Nationalpark), google reveals three temples inside.
+
+Solutions Task 4: 173.248.188.152, shared
+
+First solution: searching for 2016 on https://viewdns.info/iphistory/?domain=RepublicOfKoffee.com brings up the correct entry
+Second solution: Multiple domains share the same ip cause it is cheaper, sharing resources on the server. 
+
+Solutions Task 5: NS2.HEAT.NET, 72.52.192.240, shared, 06/01/97, After years of great online gaming, it’s time to say good-bye.,
+SegaSoft, Heat.net – Heating and Cooling
+
+First solution: https://whois.domaintools.com/heat.net
+Second solution: https://viewdns.info/iphistory/?domain=Heat.net
+Third solution: https://viewdns.info/reverseip/?host=208.117.87.195&t=1 looks like multiple sites sharing a server again
+Fourth solution: https://web.archive.org/web/19970601031026/http://www.heat.net/
+Fifth solution: https://web.archive.org/web/20010706211455/http://www.heat.net/
+Sixth solution: google search for "heat.net" brings up the solution.
+Seventh solution: https://web.archive.org/web/20101230184331/http://www.heat.net/
+
+Solutions Task 6: 5, 1, purchase.org, UA-251372-24, nay, nay
+
+First solution: http://www.heat.net/36/need-to-hire-a-commercial-heating-contractor/ just count them.
+Second solution: same as first.
+Third solution: Just hover over the result.
+Fourth solution: Using the source page, searching for "ua-" finds the wanted solution.
+Fifth solution: nerdydata.com, did not find any site though, not even heat.net
+Sixth solution: the link directiong to purchase.org has no additional affiliate parameters.
+
+
+Solution Task 7: Liquid Web, L.L.C
+
+Had to use the hint, which did not help since I already did what it said. the answer format was one of my problems since the solution was the owner of the website in the past.
+The format on viwedns.info changed so what I copied was not in the correct format.
+
