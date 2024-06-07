@@ -1,0 +1,36 @@
+Solutions Task 2: ks{H}, ks{thomas straussman}
+
+Both solutions come from the introduction.
+
+Solutions Task 3: Christmas, 12-20-1990, FHodgelink, Buddha
+
+First solution: First sentence on thomas twitter profile. (https://x.com/tstraussman?lang=en)
+Second solution: Hovering over the birthday post's date on reddit reveals the exact day posted. (https://www.reddit.com/user/Tstraussman/comments/kh1pzg/big_thank_you/)
+Third solution: He has the name "Francesca" in his bio and interacted with a tweet from her.
+Fourth solution: Picutre + bio make it obvious.
+
+Solutions Task 4: sfp_accounts,  1346173539712380929
+
+First solution: Running spiderfoot (usernames have to be in quotes), under "browse" the module used to find social media accounts is called "sfp_accounts"
+Second solution: I did not really understand this one, so after a while I had to look it up, apparently it was to be solved 
+with the help of the website shadowban.eu, but that website is no more so it seems not solvable so I fully looked up the solution to this one.
+
+Solutions Task 5: Koblenz, Germany, December 25th, Gotank, 90 Day Fiancee
+
+First solution: reveye does a fabulous job and the reverse image search returns that the vacation destination was Koblenz in Germany
+Second solution: Francesca congratulates her mother in one post
+Third solution: The name is mentioned in another post.
+Fourth solution: The hashtag to the sow is mentioned in yet another post.
+
+Solutions Task 6: Hans Minik, Nuuk, Greenland, ks{ww4ju}, ks{1qaz2wsx}, Emilia Moller, straussmanthom@mail.com
+
+First solution: Just following the instructions 
+Second solution: Looking at hans history we see him mentioning he was born in greenland. Francesca posted a picture that 
+google reverse image search identified as beeing from Nuuk in greenland so this is the likely solution, since these two coworkers seem
+to be good friends
+Third solution: I found another pastebin before in the snapshot of the archive, but these were not the solution.
+The hint told me there is another one in the snapshots. The next snapshot had the correct pastebin.
+Fourth solution: The pastebin also contained a link to a ghostbin with a password
+Fifth solution: Confusingly the ghostbin from the second pastebin did not exist. But there was also a link in the first paste.
+That one worked and revealed the name of the mistress after entering the password.
+Sixth solution: the pastebin from the fifth question contained his email.

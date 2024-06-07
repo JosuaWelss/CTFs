@@ -1,0 +1,25 @@
+Solution Task 2: china 
+
+A simple reverse imagesearch with yandex and google for confirmation shows it is an oil bubble in karamay
+
+Solution Task 4: Wrigleyville Sports
+
+First looked through streets in sheffield with no findings, then noticed the cars drive on the right side and
+understood that "st" probably stands for street and "av" for avenue so I just googled sheffield avenue, which 
+led me to chicago so I just had to use google maps to find the interception of sheffield avenue and addison street,
+turn around and there is the sportsbar where the picture was taken from.
+
+Solution Task 6: Meudon Observatory
+
+Looks middle european could be the eifel tower. Quickly using google earth confirms that, adjusting the angle to 
+have the same view as in the picture and after a short time the building is on the screen. Its called an 
+equatorial table dome. The solution is Meudon Observatory but the Meudon Observatory is more than just this building
+(wikipedia Meudon Observatory redirects to Paris Observatory).
+
+Solution Task 7: Abbey Road
+
+Looks super britsh, a quick search for the car nameplates tells me LD stands for London.
+So a crossing/street in London. The yellow street lanterns did not amount to anything, but 
+googling around with the war memorial (it seemed like one) got me closer and closer. Searching for
+zebra crossing war memorial london finally got me to the famous spot where the Beatles created history.
+
