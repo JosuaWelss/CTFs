@@ -1,0 +1,99 @@
+Exercise 001:
+Had to use the walkthrough because I did not know some key ideas when looking for this kind of location.
+So first step is to read the text and look at the image carefully.
+It says the picture is from Kiffa. Kiffa is a city in Mauretania. 
+The picture has a building on the right and left side of a road in it.
+And the road seems to take a dip and then go upwards some kind of hill.
+The end of the street seemingly has no buildings on either side anymore.
+There are trees behind the right building.
+And there are electricity poles alongside the left side of the building.
+The road itself is paved.
+
+First solution:
+Looking at Kiffa in google maps we do not find many view points. We can see there are only few paved roads though.
+We can also clearly see a few spots with a lot of green, presumably trees. In the south there
+is a spot that could be it, there are trees ad the city's border and the road is paved.
+To confirm a spot we need a feature from google earth pro, the timelapse feature. Navigation to the year
+2013 (the date the picture was taken according to the tweet) already kind of confirms that this is the correct spot.
+The position of buildings and trees match the picture. We can use the timelapse to go to later/earlier dates
+and see that the poles indeed are there and they cast a similiar shadow to the picture so this has to be the spot.
+Coordinates: 16.608297627228875, -11.397556445391524
+
+
+
+Exercise 002:
+What do we know:
+A train station in Flinders Street is depicted. Flinders Street is in Melbourne, Australia.
+In the background there is a couple of buildings. One of them has the Acronym "HWT" on it.
+The buildings all look a bit like hotels.
+
+First Solution: Flinders Street railway station.
+https://www.google.com/maps/@-37.818446,144.9666179,3a,90y,138.43h,90.51t/data=!3m8!1e1!3m6!1sAF1QipMUUHaCMNJpv2oZLPoH1YAMTu-9zqAVt_bv9Pg!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMUUHaCMNJpv2oZLPoH1YAMTu-9zqAVt_bv9Pg%3Dw203-h100-k-no-pi0-ya242.37346-ro-0-fo100!7i8704!8i4352?coh=205409&entry=ttu
+Relatively easy to find, after searching for the station on google maps, this is the viewpoint nearly exaclty where the picture was taken.
+
+Second Solution:
+The tallest building looks like it could be the HWT building (Melbourne, HWT Tower - Southbank ), there is another kind of blue building next to it,
+a bit in the background which could be taller so we have to check in google earth pro. (which crashed)
+Normal google earth works as well here fortunately. 
+
+
+Exercise 003:
+The photo was taken at 39.9308°N 32.7989°E. The Presidental (Palace) Complex in Ankara, Turkey.
+A simple quick reverse image search with google shows some articles, the third result
+(https://www.atalayar.com/en/articulo/politics/somalia-erdogans-spearhead-east-africa/20200508113246145709.html)
+mentions the palace in the caption of the picture) 
+The highest building is the FOCUS Apartments by Central Equity, google says the height is about 166 m 
+The Arts Centre Melbourne Spire on the left side of the picture is slightly smaller (162m )
+
+
+Exercise 004: 
+No historical data associated with the picture this time, just a simple image search.
+
+First solution: Google image search works for this one, the first result (taliana island) is wrong though. It 
+looks similiar but the neighbouring island look slightly different. The second result shows the correct one,
+"oan resort" on oan island, which looks exactly like the picture.
+
+Second solution:
+Coordinates are: 7.363983428680303, 151.7569308135361
+
+Third solution:
+Playing around with the view in maps, reveals the picture was taken with the camera facing north west.
+
+
+Exercise 005:
+What we know: 
+Picture was takin in a zoo, on January 15, 2023 at 2pm LOCAL time.
+
+First solution: google images returns a couple of images. The big rock on the left side in the picture seems to be from San Diego Zoo.
+They indeed do have polar bears and the camera in the zoo also shows the big rock + the smaller "rock ramp" in the centre, albeit from a different angle.
+Looking at the san diego polar bear cam broadcast on youtube is the trick here. Looking through the hour long broadcast it is possible to find the correct angle, thus
+confirming the location.
+Alternative way would have been to google for polar bear zoo cam. There should not be many results.
+So the solution is "San Diego Zoo". 
+
+Second solution: 
+Found this website: https://www.wunderground.com/history/daily/KSAN/date/2023-1-15 which shows the weather on the day, with nice graphics.
+Since the picture was taken at 2 pm, the temperature was around 62° Fahrenheit, roughly 17 ° Celsius.
+To check if this is realistic I googled for "average temperatues by month san diego" and found out that
+indeed the temperatures are somewhat realistic, with san diego having on average 28 days with temperatures above 16 ° Celsius in January.
+
+Third solution:
+First I looked at the social media accounts of the zoo linked in the youtube broadcast and see if there is metadata of a picture.
+But there was not. So I looked at earth and tried to see if the different zoo areas are mentioned.
+They are but I could not identify the part with the polar bears on first glance, so I looked at the zoo's wikipedia page. I found out 
+the bears are located at the "Polar Bear Plunge". I then also looked for a map of the zoo, which you can download on the zoo's website.
+Now it was easy. Searching for "Polar Bear Plunge" on google maps also found the exact location.
+The coordinates are: 32.73445334536855, -117.15458197420872
+
+
+Exercise 006:
+What we know: January, 19th, 2023. Picture posted from a jounralist with 140k followers. TTP carried out a suicide attack on police post in Khyber city.
+
+Solution:
+Since the exercise gives us the exact sentence I just searched for it in google (with "") and found it + all the walkthroughs for this ctf.
+Since there are no other articles or anything I already suspect the news to be fake.
+tineye also shows that this picture was used a lot of times in the past. For example from prwatch.org in 2008. So the picture indeed is not from this event.
+Wikipedia lists this event in january 2023 though so this is becoming more difficult. Luckily there is a source which links to reuters.com, one of the most neutral news organisations in the world.
+Solution: it is actually true, the news are not fake, albeit it looked like they are on first glance.
+The picture is from another event in the past.
+
