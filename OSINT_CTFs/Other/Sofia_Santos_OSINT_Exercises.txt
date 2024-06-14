@@ -97,3 +97,249 @@ Wikipedia lists this event in january 2023 though so this is becoming more diffi
 Solution: it is actually true, the news are not fake, albeit it looked like they are on first glance.
 The picture is from another event in the past.
 
+
+Exercise 007: 
+
+First solution: Just a reverse search with google shows that this is the "Centro Comercial Vasco da Gama" in Lisbon in front of the Statue.
+Second solution: Looking at the location in google maps and earth shows we are at the correct location. See more dates from varius places in google maps is a great way to find this as Sophia demonstrated in her walkthrough.
+The building with the big sign is the "Pavilhão de Portugal Expo 98" which was built for the Expo 98. So the photo has to be newer than this.
+After googling "Pavilhão de Portugal tutanchamun" (it says Tutanchamun on the sign), google brings up tripadvisor and youtube videos from 2017 and 2019.
+The youtube video has a text under it, which translated tell us that the Tutanchamun expedition took place from 19th april 2019 onwards, there are a lot of people in the picture
+and noone wears a mask so this is likely before covid19 hit the world. So this sounds plausible. The tripadvisor review talks about replicas so maybe earlier on there was another expedition with replicas.
+Third solution: Indeed second solution was correct, after watching the video it became clear this is the one shown. The way the pharaos head is depicted on the big poster is the same as in the video.
+So the link to the website is: "www.tutankamon.pt". The location coordinates from the website viewed with the help of archive.org also lead us to the correct location.
+
+
+Exercise 008:
+What we know: Lots of people, not really chinese, big hall with multiple layers of seats. Michael Hinterseer, Kiobel Blaneo seem to be of interest. released 12th of january 2023
+
+First solution: google image search brings up the virginia arts festival 2024. Googling the names seems to be better, searching for Kiobel Blaneo brings up a picture with a news article from the epoch times.
+Translated the article talks about the Shen Yun North American Performing Arts Troupe's performance in 7 houses in EU and US. The two people from the newspaper are also there, they watched the show in Berlin.
+Note: the extracting of text with google lens was so obvious that I missed it. Simple solution that works very well.
+So the answer is: they watch performing arts, some kind of dance show, with a chinese flair.
+Second solution: the same article from before says that the pictures have been taken on 7th of january 2023, apparently the show was staged at all of the 7 locations at the same time, simultaneously.
+Third solution: Earlier one google thought it was in virginia so I looked for "virginia opera house shen yun". The results showed the chrysler hall, looking at pictures it is exactly the one from the picture. To make 100% sure one could check the other 6 locations.
+So the solution is: norfolk, virginia in the chrysler hall.
+
+
+Exercise 009:
+What we know: Video shared on 16th of February 2023. Visit Tirana Twitter account, Tirana is the capital of Albania, seems like sundown (dusk). People seemingly walk in the middle of the street.
+on the left there seems to be a pharmacy of some sort, could be the entrance to a hospital. Right side has a big, seemingly red building. It likely has some open space on the ceiling. Seems to be for offices or living. 
+Video taken by Eriseld Myrto.
+
+Solution: I googled the name of the photographer found pictures on facebook. One of them depicted the city and I thought it should be easy to reverse search.
+It found the city square of Tirana. I then used the 3d view and looked around for a big red building and that one was quite easy to find. So I got the coordinates needed for the second task.
+The first task was easy to solve as a result, just using suncalc it seems like the video was taken around 5pm, probably a little earlier. Something like 16:55 Sunset was at 17:15:41. 
+The coordinates where the video was taken are: 41.32689604785339, 19.806921591423002
+The solution shows that you can inspect elemnts of the instagram post of the photgrapher on his account which shows that he took the video probably around 16:46 local time. So we are not off a lot, but still off. 
+The account of the photographer is findable by going to the facebook posts that come up when goolging his name, they link to his instagram.
+The traffic option in google maps that Sofa shows is also really interesting and good to keep in mind.
+
+
+Exercise 010:
+What we know: African voode cultural event. Pictures apparently depic zangbeto dolls. This has to do with connection to ancestral roots. It was uploaded on 12th of january 2023, 8:34 am.
+
+First solution: well as the dolls already hint, the event is the Zangbeto ceremony on national voodoo day. It is celebrated in Benin, Togo and Nigeria by the "Ogu" also known as "Egun".
+Second solution: google image searching the pictures seperately brings up a cnn article. The picture on the bottom right was taken by Dan Kitwood in "Ouidah". It seems the photographer has been there on january 10th (national voodoo day) 2021 and in ganvie near catonou on january 06 according to google,
+after searching for "dan_kitwood benin". Looking through his getty images pages we can find the picture on the left side. So the left and bottom right picture where taken by Dan Kitwood. Note that you can search for specific timeframes on the getty images website.
+Third solution: So for the two pictures he was in Ouidah, and he was definetly in ganvie before. It seemed like he was only there for a short bit and staying in cantou which should be the solution.
+I did not look at twitter like sofia, this would have made it easier, also confirming the third solution.
+
+
+Exercise 011:
+What do we know: 4 People, 3 white, one black. All Men. All wearing a suit, seems like a press conference. Some kind of trophies stand in front of them. First thought was that they look like people from FIFA during a press conference.
+
+Solution: some reverse image searches later the picture is fund by yandex. It was a photo taken during Signing of the Libyan Political Agreement in Skhirat, Morocco, 17 December 2015.
+The website of UNSMIL has a bunch of other pictures of the event which we can use for reverse image searching the faces of the men. This did not really amount to much at first. I got a lot of names but none seemed to be correct.
+I had to give this one up cause I could not identify a single person with certainty. So I decided to watch the walkthrough until the point where there is new information.
+
+First thing to note is to save the pictures with the men in it seperately to not get confused like I did. It is a good idea to search for more pictures using the place or date and the site: parameter.
+That way I also found the signatures.
+At this point I decided to not look further and try again in a couple of days.
+
+Ok so I started with yandex finding the un.org site. Bing found the unsmil site.
+Since google could not translate the signings or nameplates properly from the picture I decided to extrac them one by one.
+I found Salih Hama bakdah صالح همة بكده. This is the dark skinned man on the picture (same marking on his forehead).
+I found this twitter post: https://x.com/wheelertweets/status/620405728357019649 which posted the signatures waay ahead of the ocassion somehow.
+I then found out that all of it was initiated in july 2015 and the final photo was taken in december.
+The man with glasses seemed to sign on the right page, so I looked carefully for signings on the right page, mostly towards the bottom.
+And yes he is there: Mustafa Abu Schagur, the bottom right signature. I already had his profile open in another tab, so this shoudl confirm it.
+All the other signatures were worthless though.
+At some point I gave up and resumed to the walkthrough, now following the idea of getty images and makign sure we look for the exact face.
+The white person of whom we can see his face, has 3 moles on the right side of his face, a slight moustache, a double chin is balding with grey hair.
+He likely also does not wear glasses.
+Finding someone with sun glasses that could be the correct person. Has a mole above the eye and similar nose. So the third name is Mohammed Maazab as per another picture.
+Translating his name is not working unfortunately. Translating a couple of sentences from getty with his name in it helps to get better solutions.
+So he seems to be محمد معزب, Muhammad Moazib. the pictures of him shown in google look promising.
+Found this: https://www.lpc.ly/%d9%85%d8%b9%d8%b2%d8%a8-%d9%84%d8%a8%d8%a7%d9%86%d9%88%d8%b1%d8%a7%d9%85%d8%a7-%d8%a8%d9%8a%d8%a7%d9%86-%d8%a3%d8%b9%d8%b6%d8%a7%d8%a1-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%af%d9%91%d9%88%d9%84/
+The phase looks the same and translating back to english gives the same translated name so this is the third person.
+
+Now we got 3 of 4 people. Since they sit together they are probably from the same party, they should be together in other pictures. Maybe even in videos.
+The names we already have are:
+
+Salih Hama bakdah صالح همة بكده
+Mustafa Abu Schagur, مصطفى أبو شاقور
+Muhammad Moazib, محمد معزب 
+
+I got the idea that they signed below each other. We know that the guy in the back Abu Schagur signed last and the dark skinned guy signed in the same row, so maybe all 4 people signed in the same row.
+It did not seem helpful unfortunately. Maybe the twitter post I found earlier can group these people together. Sadly not, I was not able to get a fullname from these shortened ones.
+So back to videos.Apart from looking at the videos I found this website:
+https://www.atlanticcouncil.org/blogs/menasource/is-the-skhirat-agreement-libya-s-first-step-to-a-brighter-future/
+that guy has a similiar headshape to our unknown person. 
+I also found the video https://youtu.be/zbiJNqFzPL4?t=148 where he also shows up
+Now we just miss a name.
+On the website we see where he writes down his name and with the addition of the word libya (in arabic) we find some pictures.
+His name is: Fadil Al-Amin, فضيل الأمين
+
+Things to take away: arabic is difficult to find - it seems there is no translation service right now that is "good" at it
+In foreign languages, if mixing languages does not work (like فضيل الأمين Lybia), try searching in the native language only (in this case translate lybia to arabic)
+Videos are a fantastic source, although they take a long time to work through. Never forget about image sites like ghettyimages for official events. 
+Try to keep a browser window with all important pictures to not get confused when it matters.
+
+
+Exercise 012:
+What do we know: A coastal area, thermal anamolies depicted. Data from January 2023.
+
+First solution:  Seems like NASA FIRMS Software. A short google search brought it up.
+
+
+Exercise 013:
+Sadly the exercise is offline, but the walkthrough was interesting.
+
+Exercise 014:
+What do we know: the earthquake happened on 24/09/2016 Sat 2:18:04. It is night.
+This is not an american time format so probably not in north amerika. The buildings do not look asian,
+korea, japan and china also use yyyy-mm-dd on top of looking vastly different.
+The time shown is probably a local time. 
+
+First solution:
+Time/date format + the way the buildings look leads me to believe this is likely european. Earthquakes in europe are usually in the south or east.
+Eastern europe looks fitting.
+Reverse image search finds this youtube video https://www.youtube.com/watch?v=lvGpouFqmJ0 which seems to be the source.
+Translating the title of the youtube video gets us Chisinau earthquake.
+So the earthquake was probably happening in Chisinau.
+
+Some other things I did just to find out more info:
+I found that there was an earthquake in romania that day with a magnitude of 5.3 according to:
+https://www.romania-insider.com/5-3-magnitude-earthquake-shakes-romania-friday-night
+Can find the earthquake here:
+https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us10006s5c&extent=45.50996,26.01254&extent=45.80487,26.78158&range=search&sort=largest&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22starttime%22:%222016-09-23%2000:00:00%22,%22endtime%22:%222024-09-24%2023:59:59%22,%22maxlatitude%22:48.691,%22minlatitude%22:43.469,%22maxlongitude%22:31.069,%22minlongitude%22:19.6,%22minmagnitude%22:3,%22eventtype%22:%22earthquake%22,%22orderby%22:%22time%22%7D%7D
+and here:
+https://www.seismicportal.eu/ 
+
+all 3 found earthquakes have the same depth and are in romania. Just slightly ahead of our earthquake
+I could not find an earthquake at exactly 2:18 am
+The magnitude according to these sources is 5.3 or 5.6 or 5.7 mw (moment magnitude)
+The footage looks like a big city. So probably not in the epicenter.
+Judging by this: https://earthquake.usgs.gov/earthquakes/browse/significant.php?year=2016 it atleast is quite
+safe to say that the earthquake in romania is probably the correct one. The Magnitude was 5.0–6.0 Mw depending on who you ask and when the source published it.
+ The city should be Chisinau as said earlier.
+Chisinau (capital of moldova) has a population of 530k so finding the exact location will not be easy.
+I thought I can find the street by searching for a big street or a three lane street in google. I was able to find R6, R2 and valea crucii street also seemed to have three lanes in btht directions at some points.
+I then looked at the airport street since the video says terminal 3 but that also seemed like a dead end.
+Here I watched the walkthrough and Sofia talked about making assumptions if you have no ideas. I took the hint and searched for the building she mentioned.
+None of my assumptions worked though so back to the walkthrough.
+
+Her notes: 
+-one floor
+-sign/banner a bit of parking space in front. 
+-LOTS of light from the inside and a bit from the outside.
+=>Probably a glass front
+=> Why is there light on at this time of the night (satuday 2 am)
+===> probably a store shwocasing the product
+=====> probably expensive since having the lights on 24/7 is expensive. 
+=======> probably able to see it while driving since, so something big. During this time noone walks around so the ones this product aims at has to be the drivers.
+=========> car dealership
+
+
+To find it: translate car dealership and look for it in maps.
+By using the big street and zooming in and out it is findable, dont forget to click search this area whenever you zoom in.
+
+Exercise 015:
+What do we know:CIA document. Location: Berlin, Germany, released on 20th of september 1999
+Text from the picture:
+Telescope, built at the HSKANIA Factory for the University of Bonn.
+[Beeing asembled at the Factory] The Field is 20 times the size of the (Mount?) Palomar Telescope.
+Camera is 20 feet; weight 3 tons. Stars of the 23 RD size can be seen.
+Jan 18, 1953
+
+This was half a year before the mass protests in East Germany.
+
+First solution:
+Searching for the company does not result in anything.
+searching for "university of bonn gdr telescope 1953" finds this: https://www.imago-images.de/st/0061895213
+The picture is accompanied by a text that has the same information as the CIA text, so this is the picture we are looking for.
+Also the company is actually named Askania.
+
+Second solution:
+Lat. 50° 09′ 42″ N, long. 6° 50′ 55″ W, elevation 549m above mean sea level.
+The above search also returned this website: https://web.astronomicalheritage.net/show-entity?identity=114&idsubentity=1
+which lists the telescope and where it was located (Hoher List, Tower 1) + the coordinates.
+On the website there is a picture with Fig. 8b. showing the exacty location. On google we can use the only streetview point to confirm 50.161835350476956, 6.848350095421141
+
+Things to note: I did not read the task properly, the picture should have been while the telescope is assembled....
+This would have worked: https://www.gettyimages.co.uk/detail/news-photo/fabrication-dun-t%C3%A9l%C3%A9scope-g%C3%A9ant-%C3%A0-berlin-ouest-le-21-news-photo/1363236773 after searching for the specific "Schmidt Telescope"
+Sofia double checked this with a video found on youtube which is probably a good idea.
+
+Exercise 016:
+What do we know: military aircraft A-10 II receiving fuel from a KC-10 extender. Photo by Sgt. Michael Battles. Photo uploaded November 25th 2020
+
+Solution:
+So flightradar24 comes to mind, but the free version does not go back so far and it is questionable that they would have that specific plane tracked.
+I was able to find the journalist taking the picture. I found https://www.dvidshub.net/image/5636833/50-ars-refuels-us-navy-mission which leads me to believe he takes more of these and we can find the source by image reverse search.
+First result is https://commons.wikimedia.org/wiki/File:An_Air_Force_A-10_Thunderbolt_II_flies_in_an_undisclosed_location_after_receiving_fuel_from_a_KC-10_Extender_while_supporting_Operation_Inherent_Resolve,_May_31,_2017.jpg
+So this mission was carried out on May 31st 2017. The actualy operation ame was Operation Inherent Resolve.
+Wikipedia also tells me that this Operation refers to the 2014 U.S. military intervention against the Islamic State of Iraq and the Levant (ISIL), specifically the U.S.-led intervention in Iraq and Syria.
+So this seems like it was no training mission but a real mission.
+I then found this by more reverse searches https://www.afcent.af.mil/News/Article/1201782/908-ears-refuels-aor-a-10s-f-18s/
+The second picture looks suspicously like the one we have there. https://media.defense.gov/2017/Jun/02/2001755955/1200/1200/0/170531-F-DL987-085.JPG
+It is a slightly different angle, we do not see the refilling aircraft but the river in the background + the perfectly matching aircraft reveals this is the same.
+There is text describing the image. It says :
+An A-10 Thunderbolt II departs after receiving fuel from a 908th Expeditionary Air Refueling Squadron KC-10 Extender May 31, 2017, over an undisclosed location in southwest Asia. 
+The Thunderbolt II can employ a wide variety of conventional munitions and the GAU-8/A 30mm cannon, capable of firing 3,900 rounds per minute to defeat a wide variety of targets including tanks. 
+(U.S. Air Force photo by Senior Airman Preston Webb)
+
+==> The date is fitting, the plane is the same this is it. The operation is not named, but it is mentioned that this took place in southwest Asia. South west asia is basically the Arabian peninsula/middle east. 
+ Mr Senior Airman Preston Webb does not have anything helpful on his (likely) instagram.
+ 
+I found this website about the mission: https://www.inherentresolve.mil/ and tried to find more info through archive, since it seems they disclose news sometimes.
+This lead me to this: https://web.archive.org/web/20170707104534/http://www.inherentresolve.mil/Portals/14/Documents/Strike%20Releases/2017/05May/20170531%20Strike%20Release%20-%20Final.pdf?ver=2017-05-31-070447-593
+Here they disclose targets of the strikes. Using google maps going through the locations it seems like Syra first. The euphrates seems to be the river in the background.Looking at targets in Iraq it could also be the Tigris
+I then noticed that they only disclosed the may 31st strikes in a june document: https://web.archive.org/web/20170627192824/http://www.inherentresolve.mil/Portals/14/Documents/Strike%20Releases/2017/06June/20170602%20Strike%20Release%20-%20Final.pdf?ver=2017-06-02-053138-847
+The two targets they mention are Raqqah and Mosul.
+But both areas are populated while the area on the picture seems empty.
+The rivers and the road next to the river do not seem similiar in any of the pictures on google maps/earth. The pictues looks like it is from florida rather than the middle east.
+At this point I had to concede yet again.
+In the walkthrough sofia uses tineye. So lesson learned - always open all of them just to make sure.
+Mapping cities in google earth pro helps a lot. Also using the option to go back in time in google earth is worth a lot here.
+Also always look at social media accounts, the website I found in archive did not post every single strike - they started counting at 02 but they posted it on twitter. So if someone starts counting at 2 he is probably missing the first one.
+All the cities are not correct, but with the help of the other pictures there is an area that can be determined.
+So pinning different aircraft pictures in google earth pro and guessing smartly based on the captions helps to solve this one. After pinning some aircraft one can just use them for the direction and look at the landscape, comparing with the ones seen in the pictures.
+
+
+Exercise 017:
+What we know: The exercise is about other calendar/date systems.
+
+First solution:
+The article depicts the finish of the tokyo marathon 2020, it is a sport magazine. 
+The language is not Korean, Japanese or Chinese. Probably Thai or something like that.
+Google translate says the language is Amharic, the official language of Ethiopia, descended from Ge'ez. Not quite Thai.
+The question asked about the publishing date tho, that is 2020-03-01T08:37:13+00:00 according to the source code of the article. This date can be manipulated though, the "modified time" is a more reliable source. Also a google search for the marathon can confirm the date.
+
+Second solution:
+It is Nepali. The source code does not help here. The translated site shows only the published time. But the original version seems to have more info instead of only time. translating only the time it says gives the published date:
+January 17, 2072 at 18:24. This can not be, a bit of search reveals this date has to be in the Month of Magh (january or february).
+So I decided to play around with a converter: https://www.hamropatro.com/date-converter till I get the correct date २०७२ माघ १७ गते १८:२४
+I believe १८:२४ is the time so let's ignore that and focus on: २०७२ माघ १७ गते. गते means on so that is also not a time. Putting in the 31st of january 2016 gives back:
+२०७२ माघ १७, आइतवार which looks exactly like our date: २०७२ माघ १७ गते १८:२४. So the correct date is 31st of January 2016
+A useful tip from sofia: look at the url for a date and look for social media posts where the news agency posts their articles.
+
+Third solution:
+goolge translate says it is Persian. The translated version also shows this date: 11:17 - 02 March 1401 02 which looks weird. Google translated the month to march just because the coressponding month is roughly during the gregorian "march".
+ So maybe the original version has a better date. Turns out it has not, it uses the persian or iranian calendar.
+Short research and the usage of this calendar converter: https://www.iranchamber.com/calendar/converter/iranian_calendar_converter.php helped determine that the article was published on 21 february of 2023 a tuesday.
+
+Note: I again forgot to cross check my solutions because I am already happy with just solving, gotta verify it in the future.
+
+
+
