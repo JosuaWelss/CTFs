@@ -342,4 +342,131 @@ Short research and the usage of this calendar converter: https://www.iranchamber
 Note: I again forgot to cross check my solutions because I am already happy with just solving, gotta verify it in the future.
 
 
+Exercise 018:
+What we know: May 2023, Coronation of King Charles II.
 
+First solution:
+I googled "queen elizabeth coronation 1953" went on wikipedia and searched for door. She left Westminster Abbey through the Great West Door.
+Trying to confirm this by another source I found this map of her route: https://www.nationalarchives.gov.uk/education/resources/significant-events/coronation-of-elizabeth-ii-1953/ which may come in handy later.
+Found another map here: https://www.royal.uk/queen-elizabeth-iis-accession-and-coronation
+German wikipedia also mentioned her leaving through the "Great West Door". So I searched for this and found this: https://www.imago-images.de/st/0060200716
+So the Answer is, that Queen Elizabeth II left Westminster Abbey through the Great West Door after getting crowned.
+
+Second solution: 
+I already found some maps so they are the starting point here.
+According to https://www.royal.uk/queen-elizabeth-iis-accession-and-coronation the rout was 7.2km long. 
+I also found this: https://artcollection.culture.gov.uk/explore-the-collection/coronation-art/the-coronation-of-queen-elizabeth-ii-platinum-jubilee/
+which shows a different route so further confirmation is definetly needed.
+This again shows the route we believe to be correct: https://storymaps.arcgis.com/stories/af1e1b457b9040bb8a8c8131bc577dda
+
+But it mentions the same stops as the "wrong" map which also mentions the route beeing around 5 miles (8km) long. 
+Searching for "marble arch elizabeht 2 coronation" returned this website: https://marble-arch.london/culture-blog/marble-arch-coronation/
+which talked about the distance and mentioned it was 4.5 miles, which is 7.2km so this confirms the 7.2km as our solution.
+
+Third solution:
+According to this website: https://www.nationalarchives.gov.uk/education/resources/significant-events/coronation-of-elizabeth-ii-1953/
+that gave us the route, the queen took from 2:50 pm till 4:30 pm to get from the Abbey to the Buckingham Palace.
+That would be 100 minutes (1 hour 40 minutes).
+https://www.royal.uk/queen-elizabeth-iis-accession-and-coronation mentions it took 2 hours to complete, this could be a bit of an exegerattion of the 1 hour 40 minutes.
+https://debretts.com/royal-family/the-coronation-of-queen-elizabeth-ii/ mentiones that the queen exited the Abbey at 2:53 pm and returned 6 hours 20 minutes after she set out back to the Buckingham palace.
+Simple math: distance/time = velocity. So 7200 meters / 100 minutes => 1.2m/s or 4.32 km/hour which is slightly slower than normal walking speed.
+
+Notes from Sofias Walkthrough:
+using the . or , to go forward/backwards just one frame is super helpful.
+dragging up the framehover to see all frames at once is another nice tip. That would have made visual confirmation easier.
+Google maps measure distance tool works well. 
+Google Earth Pro can do the measuring too and save it even. Yellow marker tool has lots of options and is very useful.
+Google Earth Pro has a Paths feature similiar to google maps.
+Google Earth Pro also has measurements for the path.
+Sofias Solution was 8,32 km compared to the 7.2km that I found in some sources.
+
+
+Exercise 019:
+What do we know:
+Dropped of after a long day - by bus/car etc? (probably a long travel?)
+Location looks different - seems to have changed 
+New carpet, different color - Why does it feel like one should bring swimming shorts?
+Place where one should be respectful
+Prayers? => likely some church, monastry or cathedral type of building, does not have to be christian
+train station and buses nearby - safe city, probably an evening prayer?
+Presumably a german speaking country.
+Seems to not be Germany itself though, maybe some border region to germany or switzerland, could also be dutch?
+German seems to be one of the [official?] languages
+there is a river closeby but not the Sea
+River seems to be connected to the ocean. So not directly at the coast but has a river.
+
+
+Solution:
+My first idea is to use overpass-turbo, so I will first work through https://osm-queries.ldodds.com/tutorial/00-node-1.osm.html
+to get an idea on how to use it.
+Sadly I did not get this to work, but I will certainly use overpass-turbo fot other searches in the future.
+At this point I certainly was out of ideas, from reading the text and everything it sounds like the solution is in the netherlands or belgium, but how do I deduce the exact location?
+I could maybe check the change of carper colour in earth to confirm the location. But apart from this I have no idea how to geolocate from this simple text alone.
+I think it should be belgium since the netherlands do not have german as an official language, but Belgium does.
+
+I then thought I can use this exercise to maybe learn more about overdrive turbo so I skimmed the solution and found out is about gent.
+After a lot of hours I found out that the simple way is the best (all other scripts took weeks to load or did not load at all);
+This was my script that even worked for whole of belgium:
+[out:json][timeout:25];
+// gather results
+nwr["amenity"="hospital"]({{bbox}});
+// print results
+out geom;
+
+I also was able to finetune the query later on:
+[out:json][timeout:25];
+// gather results
+(
+nwr["amenity"="place_of_worship"]["religion"="muslim"]({{bbox}});
+)->.mosques;
+
+(
+  nwr["water"="river"]({{bbox}});
+)->.rivers;
+
+
+(
+  nwr["public_transport"="station"]({{bbox}});
+  nwr["amenity"="bus_station"]({{bbox}});
+)->.stations;
+
+  
+(
+  nwr.mosques(around.rivers:500)({{bbox}});
+)->.near;
+
+(
+  nwr.mosques(around.near:100)({{bbox}});
+)->.nearer;
+  
+ 
+// print results
+.nearer out geom;
+
+This indeed helps a lot, even if we did not know that we have to search in Gent, this query
+will return the info for basically all of Belgium if we want.
+We can go through the results one by one on google maps, or just go to google maps and search for city+mosque to find the answer: Moskee OKBA IBN NAFI
+
+Takeaway here is to be really careful about assumptions and beeing concise about the info written down.
+Also overpass turbo is an awesome tool.
+
+
+Exercise 020:
+First solution: The challenge was to find it, after putting the url together based on prior exercises, one had to use archive and go to the first snapshot to see the exercise.
+
+Second solution: The faq page is listed in the centre bottom
+Third solution: Kinda disappointing, I knew about the sitemaps feature and it is also what is suggested as the solution. Unfortunately the sitemaps feature does not work on this site for me anymore, so I was not able to solve this one.
+
+
+Exercise 021:
+What we know: 
+map on chocolate slab/bar(?)
+It has an engraving "Do it right"
+The map seems to have a river. A small village(?) and in general some agriculture and woods.
+
+Solution: Well this was quite straight forward. Googling for 'chocolate bar with map on it "do it right"' brought up the website of Cocoa Runners. They talk about Puchero's bars there.
+Searching for 'puchero chocolate "map"' then turns up the website again with a built in map. 
+The small village in the picture is the "Finca Puentes Mediana".
+
+
+Exercise 022:
