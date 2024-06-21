@@ -1,0 +1,30 @@
+Session 2: Preparing the environment
+
+1. Make sure the system is updated. Use a non-admin profile.
+
+2. Firefox is recmommended for privacy. Other privacy focused browsers could be an alternative.
+   Set the browsers privacy settings to strict. Some useful Extensions are: multi-account containers, fireshot,uBlockOrigin, DownThemAll,
+   ScapBee, search by image. OBS or Hunchly for documentation.
+   
+3. Log out of all websites before searching.
+
+4. Use a password manager for easy account and password management.
+
+5. Use a VM.
+	=> prevents malware from spreading.
+	=> easy to export and archive.
+	=> linux is more secure in general (most threat actores target windows)
+	=> snapshots for clean research enviroment
+
+6. Reduce traces left. Website Servers log your OS, IP, Browserfingerprint etc. They can reverse search the ip to reveal the host.
+	=> VPNs (don't use the most popular ones, they might be listed)
+	=> mobile Router with prepaid sim card
+	
+7. Use common sense
+	=> care with downloads from unknown sources
+	=> long, strong passwords
+	=> store documentation on secured drive
+	=> never mix private and osint
+	=> create encrypted backups
+	=> don't connect unknown devices to the computer
+	=> don't connect to unknown networks

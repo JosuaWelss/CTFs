@@ -1,0 +1,28 @@
+Session 1: Introduction
+
+-PEP Lists (Politically Exposed Persons)
+-Deep web includes PEP lists, land registries, newspaper archives not viewable in the normal internet
+-Different search engines for different regions
+-websites to search leaks like Panama Papers
+-Sanctions lists (EU or US)
+-Blockchain
+
+
+Intelligence cycle:
+1. Planning and direction: determine requirement and outline questions to answer
+2. Collection: Gather information relevant to the investigation. This may take the majority of time in the cycle.
+3. Processing and exploitation: Refine the gathered information for the following analysis.
+4. Analysis and production: Analysis of the processed information compiled into a report.
+5. Dissemination and Integration: Final distribution of analysis to others.
+
+
+
+Before collectiong info: Hypotheses
+
+1. Who is involved?
+2. What happened?
+3. When did it happen?
+4. Where did it happen? Involved actions (countries, institutions...)
+5. Why was the (criminal) activity conducted?
+6. How was the activity conducted?
+
