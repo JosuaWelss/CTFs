@@ -1,0 +1,13 @@
+01 Solution: games42
+
+looking at the source code of https://inovace.eu/game01/ provides the solution.
+
+02 Solution: boyce 
+
+Reverse image search works like a charm for the picture.
+
+03 Solution: apr-17
+
+Adding a "+" sign to the url code reveals the solution (thanks to https://stackoverflow.com/questions/41802729/how-to-find-out-date-in-which-url-was-shortened)
+
+04 Solution: 
